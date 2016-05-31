@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 body {
 	margin: 0;
 	padding: 0;
@@ -10,5 +11,9 @@ h1 {
 }
 
 p {
+=======
+BODY {
+	background: #272727 url() 0 0 no-repeat;
+>>>>>>> developer
 	color: #fff;
 }
